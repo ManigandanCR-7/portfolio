@@ -13,18 +13,6 @@ function About() {
               
               <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-black/70 to-transparent text-white" data-id="n3agysif7" data-path="js/components/About.js">
                 <div className="flex space-x-4" data-id="5vu1yx756" data-path="js/components/About.js">
-                  <a href="#" className="text-white hover:text-serene-300 transition-colors" data-id="sanx2bk5m" data-path="js/components/About.js">
-                    <i className="fab fa-github text-2xl" data-id="56jltwst0" data-path="js/components/About.js"></i>
-                  </a>
-                  <a href="#" className="text-white hover:text-serene-300 transition-colors" data-id="ywfmzdr8a" data-path="js/components/About.js">
-                    <i className="fab fa-linkedin text-2xl" data-id="3nclr2qoh" data-path="js/components/About.js"></i>
-                  </a>
-                  <a href="#" className="text-white hover:text-serene-300 transition-colors" data-id="6g8d7x9g7" data-path="js/components/About.js">
-                    <i className="fab fa-twitter text-2xl" data-id="ij30fspqz" data-path="js/components/About.js"></i>
-                  </a>
-                  <a href="#" className="text-white hover:text-serene-300 transition-colors" data-id="iojyiwsbv" data-path="js/components/About.js">
-                    <i className="fab fa-dribbble text-2xl" data-id="85ehx9t09" data-path="js/components/About.js"></i>
-                  </a>
                 </div>
               </div>
             </div>
@@ -40,7 +28,7 @@ function About() {
             </h2>
             
             <p className="text-gray-700 mb-6" data-id="96fo5h8b6" data-path="js/components/About.js">
-              Hello! I'm Manigandan, a passionate web developer and designer with over 5 years of experience creating digital experiences that users love. I specialize in building beautiful, functional websites and applications that solve real-world problems.
+              Hello! I'm Manigandan, a passionate web developer and designer with over 2 years of experience creating digital experiences that users love. I specialize in building beautiful, functional websites and applications that solve real-world problems.
             </p>
             
             <p className="text-gray-700 mb-6" data-id="wxigv4y11" data-path="js/components/About.js">
@@ -50,17 +38,17 @@ function About() {
             <div className="grid grid-cols-2 gap-4 mb-8" data-id="ehflcr3qd" data-path="js/components/About.js">
               <div data-id="n755dt813" data-path="js/components/About.js">
                 <h4 className="font-semibold text-gray-900 mb-2" data-id="zumke614x" data-path="js/components/About.js">Location</h4>
-                <p className="text-gray-600" data-id="i38spobgq" data-path="js/components/About.js">New York, NY</p>
+                <p className="text-gray-600" data-id="i38spobgq" data-path="js/components/About.js">Chennai-valsaravakkam, India</p>
               </div>
               
               <div data-id="6fgztc30n" data-path="js/components/About.js">
                 <h4 className="font-semibold text-gray-900 mb-2" data-id="10oijtik0" data-path="js/components/About.js">Email</h4>
-                <p className="text-gray-600" data-id="0j7gwpabt" data-path="js/components/About.js">hello@johndoe.com</p>
+                <p className="text-gray-600" data-id="0j7gwpabt" data-path="js/components/About.js">aaron.7arun@gmail.com</p>
               </div>
               
               <div data-id="ou0a4yavp" data-path="js/components/About.js">
                 <h4 className="font-semibold text-gray-900 mb-2" data-id="zoaajeege" data-path="js/components/About.js">Experience</h4>
-                <p className="text-gray-600" data-id="j32uhboyh" data-path="js/components/About.js">5+ Years</p>
+                <p className="text-gray-600" data-id="j32uhboyh" data-path="js/components/About.js">2+ Years</p>
               </div>
               
               <div data-id="3w348tfg5" data-path="js/components/About.js">
@@ -68,11 +56,21 @@ function About() {
                 <p className="text-gray-600" data-id="8nc7ht8fd" data-path="js/components/About.js">Freelance / Full-time</p>
               </div>
             </div>
-            
-            <button className="px-6 py-3 bg-serene-500 text-white rounded-lg hover:bg-serene-600 transition-all flex items-center justify-center" data-id="peyjrby76" data-path="js/components/About.js">
-              Download Resume
-              <i className="fas fa-download ml-2" data-id="fcrpkt7do" data-path="js/components/About.js"></i>
-            </button>
+        <button
+            onClick={() => {
+            const link = document.createElement('a');
+            link.href = 'B Manigandan - Resume .pdf';
+            link.download = 'B Manigandan - Resume .pdf';
+            link.click();
+           }}
+          className="px-6 py-3 bg-serene-500 text-white rounded-lg hover:bg-serene-600 transition-all flex items-center justify-center"
+          data-id="peyjrby76"
+          data-path="js/components/About.js"
+          >
+          Download Resume
+          <i className="fas fa-download ml-2" data-id="fcrpkt7do" data-path="js/components/About.js"></i>
+        </button>
+
           </div>
         </div>
         
@@ -125,4 +123,5 @@ function About() {
 
 
 }
+
 
