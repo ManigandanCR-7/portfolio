@@ -1,6 +1,8 @@
 function Hero() {
   return (
     <section className="hero-bg py-16 md:py-24" data-id="adp9j9mm7" data-path="js/components/Hero.js">
+    <section id="home" className="hero-bg py-16 md:py-24">
+
       <div className="blog-container" data-id="hnwes9956" data-path="js/components/Hero.js">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center" data-id="f4bcikiux" data-path="js/components/Hero.js">
 
@@ -63,5 +65,6 @@ function Hero() {
 }
 
 export default Hero;
+
 
 
