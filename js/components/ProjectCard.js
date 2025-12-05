@@ -59,7 +59,7 @@ function Projects() {
     id: 2,
     title: "Talk like an pro website & Webapp ",
     description: "Application for managing & training the Candidats to be more Professional Using Daily plan ",
-    image: "https://unsplash.com/photos/a-man-sitting-in-front-of-a-laptop-computer-9ewfCZmObeM",
+    image: "https://images.unsplash.com/photo-1635766854982-fc151c6e9278?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFByb2Zlc3Npb25hbCUyMExhcHRvcCUyMHdvcmtpbmd8ZW58MHx8MHx8fDA%3D",
     technologies: ["Angular", "TypeScript", "Supabase","php"],
     link: "https://talk-like-pro.netlify.app/",
   },
@@ -67,7 +67,7 @@ function Projects() {
     id: 3,
     title: "OTT'tz - desktop Webapp ",
     description: "Interactive VR application with Watching Movies on Theatre Experience With Alive ",
-    image: "https://unsplash.com/photos/three-children-having-fun-and-enjoy-watching-movie-in-cinema-ACryC6ozcAM",
+    image: "https://plus.unsplash.com/premium_photo-1661494303838-65d9d6454487?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fFRoZWF0cmUlMjBFbmpveXxlbnwwfHwwfHx8MA%3D%3D",
     technologies: ["JavaScript", "A-frame","Three.js","CSS3"],
     link: "https://otttz.netlify.app/",
   },
@@ -75,7 +75,7 @@ function Projects() {
     id: 4,
     title: "VR Home - Walkthrough",
     description: "Collaborative project With Integration VR into Home 3D Space.",
-    image: "https://unsplash.com/photos/man-in-black-crew-neck-t-shirt-wearing-black-sunglasses-holding-black-smartphone-HI6gy-p-WBI",
+    image: "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VlIlMjBoZWFkc2V0fGVufDB8fDB8fHww",
     technologies: ["Vue.js", "Express", "PostgreSQL"],
     link: "https://vrmob.netlify.app/",
   },
@@ -83,7 +83,7 @@ function Projects() {
     id: 5,
     title: "OTT'tz - 2.0 ( Prebook Website)",
     description: "Web 2.0 application for OTT'tz Prebook website ",
-    image: "https://unsplash.com/photos/graphical-user-interface-website-X8mwAQ03KxI",
+    image: "https://images.unsplash.com/photo-1664748512003-8820b08d8161?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENvb2wlMjBXZWJzaXRlJTIwb24lMjBsYXB0b3B8ZW58MHx8MHx8fDA%3D",
     technologies: ["React Native", "Typescript", "CSS3"],
     link: "https://otttz-prebook.netlify.app/",
   },];
@@ -111,6 +111,7 @@ function Projects() {
     </section>);
 
 }
+
 
 
 
