@@ -48,7 +48,7 @@ function Header() {
         {isMenuOpen &&
         <div className="md:hidden mt-4 py-4 bg-white rounded-lg shadow-lg" data-id="pdblcb3zm" data-path="js/components/Header.js">
             <nav className="flex flex-col space-y-4 px-4" data-id="w5hk0rb0c" data-path="js/components/Header.js">
-              <a href="#" className="text-gray-700 hover:text-serene-500 transition-all py-2" data-id="4vudbp8os" data-path="js/components/Header.js">Home</a>
+              <a href="#home" className="text-gray-700 hover:text-serene-500 transition-all py-2" data-id="4vudbp8os" data-path="js/components/Header.js">Home</a>
               <a href="#projects" className="text-gray-700 hover:text-serene-500 transition-all py-2" data-id="u0urj4dla" data-path="js/components/Header.js">Projects</a>
               <a href="#skills" className="text-gray-700 hover:text-serene-500 transition-all py-2" data-id="pn6si2tel" data-path="js/components/Header.js">Skills</a>
               <a href="#about" className="text-gray-700 hover:text-serene-500 transition-all py-2" data-id="dxr6fhe03" data-path="js/components/Header.js">About</a>
@@ -66,5 +66,6 @@ function Header() {
 
 
 }
+
 
 
