@@ -54,9 +54,6 @@ function Header() {
               <a href="#about" className="text-gray-700 hover:text-serene-500 transition-all py-2" data-id="dxr6fhe03" data-path="js/components/Header.js">About</a>
               <a href="#contact" className="text-gray-700 hover:text-serene-500 transition-all py-2" data-id="nnzxvyq3z" data-path="js/components/Header.js">Contact</a>
               <div className="pt-2 pb-1 border-t border-gray-100" data-id="o479r0rmf" data-path="js/components/Header.js">
-                <button className="flex items-center text-serene-600 hover:text-serene-700 transition-all" data-id="ahrogb4n3" data-path="js/components/Header.js">
-                  <i className="fas fa-search mr-2" data-id="fmv69o8we" data-path="js/components/Header.js"></i> Search
-                </button>
               </div>
             </nav>
           </div>
@@ -66,6 +63,7 @@ function Header() {
 
 
 }
+
 
 
 
