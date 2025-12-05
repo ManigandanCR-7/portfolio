@@ -19,7 +19,7 @@ function Skills() {
   { skill: "JavaScript", level: 95 },
   { skill: "React.js", level: 90 },
   { skill: "HTML5/CSS3", level: 95 },
-  { skill: "Node.js", level: 85 },
+  { skill: "Php", level: 85 },
   { skill: "UI/UX Design", level: 80 }];
 
 
@@ -99,10 +99,11 @@ function Skills() {
               <i className="fas fa-mobile-alt" data-id="6hv97r9yi" data-path="js/components/Skills.js"></i>
             </div>
             <h3 className="text-lg font-semibold mb-2" data-id="h0kjy2qsz" data-path="js/components/Skills.js">Mobile Development</h3>
-            <p className="text-gray-600 text-sm" data-id="bpsoyf55o" data-path="js/components/Skills.js">Building cross-platform applications for iOS and Android</p>
+            <p className="text-gray-600 text-sm" data-id="bpsoyf55o" data-path="js/components/Skills.js">Building cross-platform Mobile Web applications on Android</p>
           </div>
         </div>
       </div>
     </section>);
+
 
 }
