@@ -107,7 +107,7 @@ function About() {
                 <div className="timeline-dot" data-id="zsvkab0qo" data-path="js/components/About.js"></div>
                 <div className="timeline-date" data-id="72bwrqeho" data-path="js/components/About.js">2024 - 2025</div>
                 <div className="timeline-content" data-id="lga4xjft5" data-path="js/components/About.js">
-                  <h4 className="text-xl font-semibold mb-1" data-id="3mkp7e7ly" data-path="js/components/About.js">Web Developer</h4>
+                  <h4 className="text-xl font-semibold mb-1" data-id="3mkp7e7ly" data-path="js/components/About.js">Web Developer & Web app Creator </h4>
                   <h5 className="text-serene-600 mb-3" data-id="ebbatsh5g" data-path="js/components/About.js">Freelancing.</h5>
                   <p className="text-gray-600" data-id="i0olzv65f" data-path="js/components/About.js">
                     Developed responsive websites and Webapp for clients. Optimized performance and implemented strategies.
@@ -125,3 +125,4 @@ function About() {
 
 
 }
+
