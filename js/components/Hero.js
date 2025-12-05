@@ -24,8 +24,8 @@ function Hero() {
               
               {/* DOWNLOAD RESUME BUTTON */}
               <a
-                href="B Manigandan - Resume .pdf"
-                download="B Manigandan - Resume .pdf"
+                href="B Manigandan - Resume.pdf"
+                download="B Manigandan - Resume.pdf"
                 className="px-6 py-3 bg-transparent border-2 border-serene-300 text-serene-700 rounded-lg hover:bg-serene-50 transition-all flex items-center justify-center cursor-pointer"
                 data-id="xxc4uovef"
               >
@@ -64,6 +64,7 @@ function Hero() {
 }
 
 export default Hero;
+
 
 
 
