@@ -53,43 +53,39 @@ function Projects() {
     description: "Calm series - mobile webapp for Relaxing & Stress Relief",
     image: "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     technologies: ["React", "CSS", "Supabase","Netlify"],
-    link: "#https://neuw-bloom.netlify.app/",
+    link: "https://neuw-bloom.netlify.app/",
   },
   {
     id: 2,
-    title: "Portfolio Management App",
-    description: "Application for managing investment portfolios with real-time data visualization.",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
-    technologies: ["Angular", "TypeScript", "Firebase"],
-    link: "#",
-    github: "#"
+    title: "Talk like an pro website & Webapp ",
+    description: "Application for managing & training the Candidats to be more Professional Using Daily plan ",
+    image: "https://unsplash.com/photos/a-man-sitting-in-front-of-a-laptop-computer-9ewfCZmObeM",
+    technologies: ["Angular", "TypeScript", "Supabase","php"],
+    link: "https://talk-like-pro.netlify.app/",
   },
   {
     id: 3,
-    title: "Weather Forecast App",
-    description: "Interactive weather application with 7-day forecasts and location-based services.",
-    image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
-    technologies: ["JavaScript", "APIs", "CSS3"],
-    link: "#",
-    github: "#"
+    title: "OTT'tz - desktop Webapp ",
+    description: "Interactive VR application with Watching Movies on Theatre Experience With Alive ",
+    image: "https://unsplash.com/photos/three-children-having-fun-and-enjoy-watching-movie-in-cinema-ACryC6ozcAM",
+    technologies: ["JavaScript", "A-frame","Three.js","CSS3"],
+    link: "https://otttz.netlify.app/",
   },
   {
     id: 4,
-    title: "Task Management System",
-    description: "Collaborative project management tool with real-time updates and team integration.",
-    image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+    title: "VR Home - Walkthrough",
+    description: "Collaborative project With Integration VR into Home 3D Space.",
+    image: "https://unsplash.com/photos/man-in-black-crew-neck-t-shirt-wearing-black-sunglasses-holding-black-smartphone-HI6gy-p-WBI",
     technologies: ["Vue.js", "Express", "PostgreSQL"],
-    link: "#",
-    github: "#"
+    link: "https://vrmob.netlify.app/",
   },
   {
     id: 5,
-    title: "Health & Fitness Tracker",
-    description: "Mobile application for tracking fitness goals, nutrition, and health metrics.",
-    image: "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
-    technologies: ["React Native", "GraphQL", "AWS"],
-    link: "#",
-    github: "#"
+    title: "OTT'tz - 2.0 ( Prebook Website)",
+    description: "Web 2.0 application for OTT'tz Prebook website ",
+    image: "https://unsplash.com/photos/graphical-user-interface-website-X8mwAQ03KxI",
+    technologies: ["React Native", "Typescript", "CSS3"],
+    link: "https://otttz-prebook.netlify.app/",
   },];
 
   return (
@@ -115,5 +111,6 @@ function Projects() {
     </section>);
 
 }
+
 
 
