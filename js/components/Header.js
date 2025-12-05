@@ -26,7 +26,7 @@ function Header() {
           </div>
           
           <nav className="hidden md:flex items-center space-x-8" data-id="md96aprs7" data-path="js/components/Header.js">
-            <a href="#" className="nav-link text-gray-700 hover:text-serene-500 transition-all" data-id="988ctauk1" data-path="js/components/Header.js">Home</a>
+            <a href="#home" className="nav-link text-gray-700 hover:text-serene-500 transition-all" data-id="988ctauk1" data-path="js/components/Header.js">Home</a>
             <a href="#projects" className="nav-link text-gray-700 hover:text-serene-500 transition-all" data-id="w0l1tae27" data-path="js/components/Header.js">Projects</a>
             <a href="#skills" className="nav-link text-gray-700 hover:text-serene-500 transition-all" data-id="i8wmuhjj0" data-path="js/components/Header.js">Skills</a>
             <a href="#about" className="nav-link text-gray-700 hover:text-serene-500 transition-all" data-id="rj3xgihcv" data-path="js/components/Header.js">About</a>
@@ -66,6 +66,7 @@ function Header() {
 
 
 }
+
 
 
 
