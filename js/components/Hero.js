@@ -15,7 +15,7 @@ function Hero() {
             </h1>
             
             <p className="text-gray-600 text-lg mb-8" data-id="o479iw8qs" data-path="js/components/Hero.js">
-              I specialize in creating beautiful, functional websites and Webapps
+              I got Expertized in creating beautiful, functional websites and Webapps
               with a focus on user experience and modern UX designs.
             </p>
             
@@ -63,4 +63,5 @@ function Hero() {
 }
 
 export default Hero;
+
 
