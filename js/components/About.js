@@ -59,8 +59,8 @@ function About() {
         <button
             onClick={() => {
             const link = document.createElement('a');
-            link.href = 'B Manigandan - Resume .pdf';
-            link.download = 'B Manigandan - Resume .pdf';
+            link.href = 'B Manigandan - Resume.pdf';
+            link.download = 'B Manigandan - Resume.pdf';
             link.click();
            }}
           className="px-6 py-3 bg-serene-500 text-white rounded-lg hover:bg-serene-600 transition-all flex items-center justify-center"
@@ -123,5 +123,6 @@ function About() {
 
 
 }
+
 
 
