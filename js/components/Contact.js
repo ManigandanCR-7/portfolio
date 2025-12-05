@@ -20,7 +20,7 @@ function Contact() {
                 </div>
                 <div data-id="sqh150fb2" data-path="js/components/Contact.js">
                   <h4 className="font-medium" data-id="b28bf9yv5" data-path="js/components/Contact.js">Location</h4>
-                  <p className="text-serene-100" data-id="q3v2gy6q5" data-path="js/components/Contact.js">New York, NY</p>
+                  <p className="text-serene-100" data-id="q3v2gy6q5" data-path="js/components/Contact.js">Chennai, India</p>
                 </div>
               </div>
               
@@ -30,7 +30,7 @@ function Contact() {
                 </div>
                 <div data-id="9ljxc7dp3" data-path="js/components/Contact.js">
                   <h4 className="font-medium" data-id="y8v05nqxm" data-path="js/components/Contact.js">Email</h4>
-                  <p className="text-serene-100" data-id="5vfqdxi0d" data-path="js/components/Contact.js">hello@johndoe.com</p>
+                  <p className="text-serene-100" data-id="5vfqdxi0d" data-path="js/components/Contact.js">aaron.7arun@gmail.com</p>
                 </div>
               </div>
               
@@ -40,25 +40,11 @@ function Contact() {
                 </div>
                 <div data-id="x8c29rmh0" data-path="js/components/Contact.js">
                   <h4 className="font-medium" data-id="imiijfaub" data-path="js/components/Contact.js">Phone</h4>
-                  <p className="text-serene-100" data-id="z1i0hfkq2" data-path="js/components/Contact.js">+1 (123) 456-7890</p>
+                  <p className="text-serene-100" data-id="z1i0hfkq2" data-path="js/components/Contact.js">+91 9360964635</p>
                 </div>
               </div>
             </div>
             
-            <div className="flex space-x-4" data-id="ppfhhilra" data-path="js/components/Contact.js">
-              <a href="#" className="w-10 h-10 rounded-full bg-serene-700 flex items-center justify-center hover:bg-serene-800 transition-colors" data-id="et0tyqydb" data-path="js/components/Contact.js">
-                <i className="fab fa-github" data-id="y9blezlpo" data-path="js/components/Contact.js"></i>
-              </a>
-              <a href="#" className="w-10 h-10 rounded-full bg-serene-700 flex items-center justify-center hover:bg-serene-800 transition-colors" data-id="vl7h6n29k" data-path="js/components/Contact.js">
-                <i className="fab fa-linkedin-in" data-id="h7b3xyje6" data-path="js/components/Contact.js"></i>
-              </a>
-              <a href="#" className="w-10 h-10 rounded-full bg-serene-700 flex items-center justify-center hover:bg-serene-800 transition-colors" data-id="95ufikpkd" data-path="js/components/Contact.js">
-                <i className="fab fa-twitter" data-id="45s6z0ld2" data-path="js/components/Contact.js"></i>
-              </a>
-              <a href="#" className="w-10 h-10 rounded-full bg-serene-700 flex items-center justify-center hover:bg-serene-800 transition-colors" data-id="jchxggw9c" data-path="js/components/Contact.js">
-                <i className="fab fa-dribbble" data-id="pqhfhu9m4" data-path="js/components/Contact.js"></i>
-              </a>
-            </div>
           </div>
           
           <div className="fade-in" style={{ animationDelay: '0.3s' }} data-id="63k6crseh" data-path="js/components/Contact.js">
@@ -115,5 +101,6 @@ function Contact() {
         </div>
       </div>
     </section>);
+
 
 }
