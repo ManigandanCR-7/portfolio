@@ -21,7 +21,7 @@ function Header() {
         <div className="flex items-center justify-between" data-id="in1xbnnh7" data-path="js/components/Header.js">
           <div className="flex items-center" data-id="frbl4330d" data-path="js/components/Header.js">
             <h1 className="text-2xl font-bold text-serene-600" data-id="jygmovpfp" data-path="js/components/Header.js">
-              <span className="gradient-text" data-id="84errzzqv" data-path="js/components/Header.js">Portfolio</span>Space
+              <span className="gradient-text" data-id="84errzzqv" data-path="js/components/Header.js">Manigandan</span>Dev
             </h1>
           </div>
           
@@ -66,6 +66,7 @@ function Header() {
 
 
 }
+
 
 
 
