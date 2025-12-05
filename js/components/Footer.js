@@ -16,7 +16,7 @@ function Footer() {
           <div data-id="0bkupu0sm" data-path="js/components/Footer.js">
             <h4 className="text-lg font-semibold mb-6" data-id="mpnxzmy32" data-path="js/components/Footer.js">Quick Links</h4>
             <ul className="space-y-3" data-id="b6jhsh2ix" data-path="js/components/Footer.js">
-              <li data-id="lhc1p4l85" data-path="js/components/Footer.js"><a href="#" className="footer-link text-serene-100 hover:text-white" data-id="nysyvtjsn" data-path="js/components/Footer.js">Home</a></li>
+              <li data-id="lhc1p4l85" data-path="js/components/Footer.js"><a href="#home" className="footer-link text-serene-100 hover:text-white" data-id="nysyvtjsn" data-path="js/components/Footer.js">Home</a></li>
               <li data-id="iux752qgi" data-path="js/components/Footer.js"><a href="#projects" className="footer-link text-serene-100 hover:text-white" data-id="gj5vfqhfp" data-path="js/components/Footer.js">Projects</a></li>
               <li data-id="9asb3sqq4" data-path="js/components/Footer.js"><a href="#skills" className="footer-link text-serene-100 hover:text-white" data-id="36xnfg7p8" data-path="js/components/Footer.js">Skills</a></li>
               <li data-id="khp39lj2g" data-path="js/components/Footer.js"><a href="#about" className="footer-link text-serene-100 hover:text-white" data-id="sin5xncbs" data-path="js/components/Footer.js">About Me</a></li>
@@ -79,3 +79,4 @@ function Footer() {
     </footer>);
 
 }
+
