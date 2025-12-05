@@ -5,7 +5,7 @@ function Hero() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center" data-id="f4bcikiux" data-path="js/components/Hero.js">
           <div className="fade-in" data-id="2q34s3ztm" data-path="js/components/Hero.js">
             <span className="inline-block px-4 py-1 rounded-full bg-serene-100 text-serene-700 font-medium text-sm mb-6" data-id="hn0kmi5vx" data-path="js/components/Hero.js">
-              Hello, I'm John Doe
+              Hello, I'm Manigandan 
             </span>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight" data-id="xhvt6a67u" data-path="js/components/Hero.js">
@@ -13,15 +13,11 @@ function Hero() {
             </h1>
             
             <p className="text-gray-600 text-lg mb-8" data-id="o479iw8qs" data-path="js/components/Hero.js">
-              I specialize in creating beautiful, functional websites and applications
-              with a focus on user experience and modern design principles.
+              I specialize in creating beautiful, functional websites and Webapp
+              with a focus on user experience and modern UX designs 
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4" data-id="1f8e26evq" data-path="js/components/Hero.js">
-              <button className="px-6 py-3 bg-serene-500 text-white rounded-lg hover:bg-serene-600 transition-all flex items-center justify-center" data-id="p467vc9rv" data-path="js/components/Hero.js">
-                View Projects
-                <i className="fas fa-arrow-right ml-2" data-id="oz8zv6nzx" data-path="js/components/Hero.js"></i>
-              </button>
               
               <button className="px-6 py-3 bg-transparent border-2 border-serene-300 text-serene-700 rounded-lg hover:bg-serene-50 transition-all flex items-center justify-center" data-id="xxc4uovef" data-path="js/components/Hero.js">
                 <i className="fas fa-download mr-2" data-id="6p9x5zk4m" data-path="js/components/Hero.js"></i>
@@ -50,5 +46,6 @@ function Hero() {
         </div>
       </div>
     </section>);
+
 
 }
