@@ -13,9 +13,6 @@ function ProjectCard({ project, delay = 0 }) {
           <a href={project.link} className="px-4 py-2 bg-serene-500 text-white rounded-lg hover:bg-serene-600 transition-all m-2" data-id="1k6cgcx5r" data-path="js/components/ProjectCard.js">
             View Project
           </a>
-          <a href={project.github} className="px-4 py-2 bg-gray-800 text-white rounded-lg hover:bg-gray-700 transition-all m-2" data-id="0mt38w9x0" data-path="js/components/ProjectCard.js">
-            <i className="fab fa-github mr-2" data-id="10t342yvd" data-path="js/components/ProjectCard.js"></i>GitHub
-          </a>
         </div>
       </div>
       
@@ -60,7 +57,6 @@ function Projects() {
     description: "A fully responsive e-commerce platform with cart, checkout, and payment integration.",
     image: "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     technologies: ["React", "Node.js", "MongoDB"],
-    date: "March 2023",
     link: "#",
     github: "#"
   },
@@ -70,7 +66,6 @@ function Projects() {
     description: "Application for managing investment portfolios with real-time data visualization.",
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     technologies: ["Angular", "TypeScript", "Firebase"],
-    date: "January 2023",
     link: "#",
     github: "#"
   },
@@ -80,7 +75,6 @@ function Projects() {
     description: "Interactive weather application with 7-day forecasts and location-based services.",
     image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     technologies: ["JavaScript", "APIs", "CSS3"],
-    date: "November 2022",
     link: "#",
     github: "#"
   },
@@ -90,7 +84,6 @@ function Projects() {
     description: "Collaborative project management tool with real-time updates and team integration.",
     image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     technologies: ["Vue.js", "Express", "PostgreSQL"],
-    date: "August 2022",
     link: "#",
     github: "#"
   },
@@ -100,20 +93,9 @@ function Projects() {
     description: "Mobile application for tracking fitness goals, nutrition, and health metrics.",
     image: "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
     technologies: ["React Native", "GraphQL", "AWS"],
-    date: "May 2022",
     link: "#",
     github: "#"
-  },
-  {
-    id: 6,
-    title: "Social Media Dashboard",
-    description: "Analytics dashboard for monitoring social media performance across platforms.",
-    image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
-    technologies: ["NextJS", "TailwindCSS", "D3.js"],
-    date: "February 2022",
-    link: "#",
-    github: "#"
-  }];
+  },];
 
   return (
     <section id="projects" className="py-16 bg-serene-50/50" data-id="06kx9xnht" data-path="js/components/ProjectCard.js">
@@ -136,4 +118,5 @@ function Projects() {
         </div>
       </div>
     </section>);
+
 }
