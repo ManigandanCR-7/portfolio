@@ -5,26 +5,12 @@ function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12" data-id="a0j6kwg4g" data-path="js/components/Footer.js">
           <div data-id="jcb8p28h2" data-path="js/components/Footer.js">
             <h3 className="text-xl font-bold mb-6" data-id="l3usdd355" data-path="js/components/Footer.js">
-              <span className="gradient-text" data-id="z6wrnp1fi" data-path="js/components/Footer.js">Portfolio</span>Space
+              <span className="gradient-text" data-id="z6wrnp1fi" data-path="js/components/Footer.js">Manigandan</span>dev
             </h3>
             <p className="text-serene-100 mb-6" data-id="am55tj923" data-path="js/components/Footer.js">
               Professional web developer specializing in creating beautiful, 
               functional websites and applications with modern technologies.
             </p>
-            <div className="flex space-x-4" data-id="n2exggorc" data-path="js/components/Footer.js">
-              <a href="#" className="social-icon" data-id="oz07kr4zu" data-path="js/components/Footer.js">
-                <i className="fab fa-github" data-id="r6tabq5vf" data-path="js/components/Footer.js"></i>
-              </a>
-              <a href="#" className="social-icon" data-id="eaab5w5q6" data-path="js/components/Footer.js">
-                <i className="fab fa-linkedin" data-id="iavl4orr5" data-path="js/components/Footer.js"></i>
-              </a>
-              <a href="#" className="social-icon" data-id="hksxb3d14" data-path="js/components/Footer.js">
-                <i className="fab fa-twitter" data-id="tw82zbdhv" data-path="js/components/Footer.js"></i>
-              </a>
-              <a href="#" className="social-icon" data-id="q3c72lixa" data-path="js/components/Footer.js">
-                <i className="fab fa-dribbble" data-id="b0qykeey3" data-path="js/components/Footer.js"></i>
-              </a>
-            </div>
           </div>
           
           <div data-id="0bkupu0sm" data-path="js/components/Footer.js">
@@ -54,18 +40,18 @@ function Footer() {
             <ul className="space-y-4" data-id="8njtnoyb1" data-path="js/components/Footer.js">
               <li className="flex items-start" data-id="8hiy5ewqt" data-path="js/components/Footer.js">
                 <i className="fas fa-map-marker-alt mt-1.5 mr-3 text-serene-300" data-id="jgbylrhse" data-path="js/components/Footer.js"></i>
-                <span className="text-serene-100" data-id="kmsnleol6" data-path="js/components/Footer.js">New York, NY</span>
+                <span className="text-serene-100" data-id="kmsnleol6" data-path="js/components/Footer.js">Chennai , India</span>
               </li>
               <li className="flex items-center" data-id="m9pw78lu7" data-path="js/components/Footer.js">
                 <i className="fas fa-envelope mr-3 text-serene-300" data-id="frqwsg0sl" data-path="js/components/Footer.js"></i>
                 <a href="mailto:hello@johndoe.com" className="text-serene-100 hover:text-white transition-all" data-id="6gl3xie71" data-path="js/components/Footer.js">
-                  hello@johndoe.com
+                  aaron.7arun@gmail.com
                 </a>
               </li>
               <li className="flex items-center" data-id="9cjvdek1i" data-path="js/components/Footer.js">
                 <i className="fas fa-phone-alt mr-3 text-serene-300" data-id="5lif7mm1f" data-path="js/components/Footer.js"></i>
-                <a href="tel:+11234567890" className="text-serene-100 hover:text-white transition-all" data-id="2aa3ricpn" data-path="js/components/Footer.js">
-                  +1 (123) 456-7890
+                <a href="tel:+ 91 9360964635" className="text-serene-100 hover:text-white transition-all" data-id="2aa3ricpn" data-path="js/components/Footer.js">
+                  + 91 9360964635
                 </a>
               </li>
             </ul>
@@ -74,7 +60,7 @@ function Footer() {
         
         <div className="pt-8 border-t border-serene-700 text-center md:flex md:justify-between md:items-center" data-id="y9v0iuq02" data-path="js/components/Footer.js">
           <p className="text-serene-100 mb-4 md:mb-0" data-id="0jisplpbv" data-path="js/components/Footer.js">
-            &copy; {new Date().getFullYear()} John Doe | Portfolio. All rights reserved.
+            &copy; {new Date().getFullYear()} Manigandan | Portfolio. All rights reserved.
           </p>
           
           <div className="flex flex-wrap justify-center gap-4" data-id="aiquywvo6" data-path="js/components/Footer.js">
@@ -91,4 +77,5 @@ function Footer() {
         </div>
       </div>
     </footer>);
+
 }
