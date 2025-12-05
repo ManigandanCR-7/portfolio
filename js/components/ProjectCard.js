@@ -39,11 +39,7 @@ function ProjectCard({ project, delay = 0 }) {
           <div className="flex items-center" data-id="r2g17t9ep" data-path="js/components/ProjectCard.js">
             <span className="text-sm text-gray-500" data-id="02qca9qwt" data-path="js/components/ProjectCard.js">{project.date}</span>
           </div>
-          
-          <button className="flex items-center text-serene-600 hover:text-serene-700 transition-all" data-id="abgtahnrl" data-path="js/components/ProjectCard.js">
-            <span className="mr-1 text-sm font-medium custom-underline" data-id="mkfkjdfwd" data-path="js/components/ProjectCard.js">Details</span>
-            <i className="fas fa-arrow-right text-xs" data-id="wfgibi13r" data-path="js/components/ProjectCard.js"></i>
-          </button>
+        
         </div>
       </div>
     </div>);
@@ -120,3 +116,4 @@ function Projects() {
     </section>);
 
 }
+
